@@ -5,7 +5,6 @@
 git clone https://github.com/mohamedmahmoudf97/flights-app.git
 ```
 
-#### Clone the Repo
 ```
 cd flights-app
 ```
