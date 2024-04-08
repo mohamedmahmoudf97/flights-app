@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "email": "mohamed.foaud@complade.com",
+      "password": "$2a$10$RPQf7ulLhLCYPBwhhIJT/eVxU.M/c5zazbaDl89c1c42zBBLA6QlO",
+      "id": 2
+    },
+    {
+      "email": "mohamed.fouad@developercarreer.net",
+      "password": "$2a$10$Mfapcog.PtGZBAZi2GYpt.EZvWZgnceLtcG6DTCChcfuL8eIG3SNC",
+      "name": "MOhamed Fouad",
+      "id": 3
+    },
+    {
+      "email": "mohamed.fouad@complade.com",
+      "password": "$2a$10$0OexwOxtDs5eASeSpAU17uG/nQOzivX.iUceFqr05NKpp8N3Yy9Ju",
+      "username": "Ahmed Fouad",
+      "id": 4
+    },
+    {
+      "email": "mohamed.fouad@developercareer.net",
+      "password": "$2a$10$mnbeMaNny7wQAN80zRNst.26zA7bwmsL0Ozbcp.3I.k1TDPT2Vcnu",
+      "username": "Mohamed Mahmoud Mohamed F",
+      "id": 5
+    }
+  ],
+  "flights": [
+    {
+      "date": "2024-04-09T15:33:59.385Z",
+      "capacity": 12,
+      "code": "123",
+      "id": 1
+    },
+    {
+      "date": "2024-04-09T15:33:59.385Z",
+      "capacity": 42154,
+      "code": "12133",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+export const JSON_SERVER_API = `http://localhost:8080`
